@@ -4,10 +4,6 @@
 title: Multi Things
 description: For a Multipotentiality
 
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
 
@@ -18,6 +14,8 @@ description: For a Multipotentiality
 
 # List of links in the navigation bar
 navbar-links:
+  BEING CRAZY:
+  Youtube Channel:
   Art: 
     - drawings:
     - Music:
@@ -32,21 +30,18 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
+title-img: "/path/to/image"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#98b4e4"
+navbar-text-col: "#171c27"
+navbar-children-col: "#98b4e4"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#8cffe4"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
