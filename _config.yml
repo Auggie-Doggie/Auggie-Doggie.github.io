@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: -> Multi Things <-
+title:  Multi Things <-
 description: For a Multipotentiality
 
 # url is the the website domain URL without a trailing slash
@@ -14,18 +14,22 @@ description: For a Multipotentiality
 
 # List of links in the navigation bar
 navbar-links:
-  BEING CRAZY:
-  Youtube Channel:
-  Art: 
+  CRAZY Things:
+    Art: 
     - drawings:
     - Music:
     - timelaps:
   Writing:
     - Debates:
     - short stories:
+  Youtube Channel:
   study tips:
     - Apps:
     - Technology:
+  Criticle thinking:
+  Dance:
+    - learning:
+    - compleated:
   About Me:
   
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,11 +42,10 @@ title-img: /path/to/image.
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#0b1021"
-navbar-text-col: "#171c27"
-navbar-children-col: "#98b4e4"
+navbar-text-col: "#fefff0"
+navbar-children-col: "#1a2752"
 page-col: "#FFFFFF"
-link-col: "#8cffe4"
-navbar-hover-col: "#fcf2ac"
+link-col: "#86f0d7"
 page-hover-col: "#54ccb6"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
