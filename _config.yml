@@ -44,8 +44,7 @@ title-img: /path/to/image.
 navbar-col: "#0b1021"
 navbar-text-col: "#fefff0"
 navbar-children-col: "#1a2752"
-page-col: "#FFFFFF"
-link-col: "#86f0d7"
+---?image=assets/img/https://media1.giphy.com/media/xXaaIVQ4zyKWs/giphy.gif?cid=ecf05e473ad8116bfaa4a793072020929a9f47df0257acc2&rid=giphy.gif
 page-hover-col: "#54ccb6"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
