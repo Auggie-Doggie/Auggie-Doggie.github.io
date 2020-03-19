@@ -43,7 +43,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+# navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-text-col: "#ffffff"
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-navbar-img: "/img/https://i.pinimg.com/originals/64/96/ac/6496ac331d2e848a40fee85a7d277a40.png"
+page-img: "/img/https://i.pinimg.com/originals/64/96/ac/6496ac331d2e848a40fee85a7d277a40.png"
 
 # --- Footer options --- #
 
