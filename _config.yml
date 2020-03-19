@@ -1,6 +1,5 @@
 # --- General options --- #
 
-title: Multi Things
 description: For a Multipotentiality
 
 # --- Local development options ---
@@ -17,6 +16,9 @@ description: For a Multipotentiality
 
 # List of links in the navigation bar
 navbar-links:
+  Science:
+    - Biology:
+    - Chemistry:
   Art: 
     - drawings:
     - Music:
@@ -30,12 +32,12 @@ navbar-links:
     - Apps:
     - Tips:
     - productivity:
-  
+  submissions:
   About Me: "aboutme"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+ title-img: /path/to/image/
 
 # --- Background colour/image options --- #
 
