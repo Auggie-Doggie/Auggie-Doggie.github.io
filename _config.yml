@@ -17,21 +17,20 @@ description: For a Multipotentiality
 
 # List of links in the navigation bar
 navbar-links:
-navbar-links:
-  CRAZY Things:
   Art: 
     - drawings:
     - Music:
-    - timelaps:
+    - Dance:
   Writing:
     - Debates:
-    - short stories:
+    - Criticle thinking:
+    - stories:
   Youtube Channel:
-  study tips:
+  study:
     - Apps:
-    - Technology:
-  Criticle thinking:
-  Dance:
+    - Tips:
+    - productivity:
+  
   About Me: "aboutme"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
